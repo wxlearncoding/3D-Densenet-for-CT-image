@@ -1,0 +1,1 @@
+This project briefly introduces the training of densenet with 3D CT data.
